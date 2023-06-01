@@ -10,6 +10,6 @@ My library for rdb.altlinux request and CLI-utility which displays:
 3. Install the library for CLI utility using the command: `sudo python3 setup.py install`
 
 ## Running
-1. To start the application, use the command: `python cli-api.py sisyphus p10`. Sisyphus and p10 are two branches for comparison, but you can choose other available branches.
+1. To start the application, use the command: `python3 cli-api.py sisyphus p10`. Sisyphus and p10 are two branches for comparison, but you can choose other available branches.
 1.1. You can manually choose the architecture, but by default it is x86_64. To select another architecture, add the `--arch` attribute.
 1.2 At the end of the command, add `>output.json` if the result is needed for further use.
