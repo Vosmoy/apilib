@@ -1,5 +1,8 @@
 # apilib
-My library for rdb.altlinux request.
+My library for rdb.altlinux request and CLI-utility which displays:
+- all packages that are in the first but not in the second
+- all packages that are in the second but not in the first
+- all packages, whose version-release is greater in the first than in the second.
 
 ## Installation
 1. Clone the repository to your local computer using the command: `git clone https://github.com/Vosmoy/apilib.git`
